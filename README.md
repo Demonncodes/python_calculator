@@ -1,6 +1,8 @@
 # 🧮 Python Calculator
 
 This is a simple calculator built using Python.
+A beginner-friendly Python project demonstrating basic operations
+and exception handling.
 
 ## 🚀 Features
 - Addition
